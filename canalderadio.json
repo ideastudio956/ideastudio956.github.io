@@ -1,0 +1,23 @@
+{
+    "espanatv": [
+	
+		{
+                "Nombredelcanal": "Los 40",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "Clásica FM Radio",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"mp3",
+				  	"Urldecanal":"https://radio.garden/api/ara/content/listen/UG3FmZly/channel.mp3"
+					}
+				]
+        }
+  ]
+}
