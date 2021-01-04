@@ -1,0 +1,22 @@
+{
+    "espanatv": [
+		{
+                "Nombredelcanal": "La 2",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rtvelivestream.akamaized.net/la2_dvr.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8"
+					}
+				]
+                
+        }
+  ]
+}
