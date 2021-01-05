@@ -1,0 +1,229 @@
+{
+    "capontv": [
+	    {
+                "caponcanalename": "ABC",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/ABC/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "ANIMAX",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/3720/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "Kantele",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/2610/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "MBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/MBS/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK BSP",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/3630/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK 华语视界",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK E",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/NHKE/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK ENGLISH",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16901"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Nihon Eiga TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/3730/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV NEWS 24",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Osaka TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/2590/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "SUN",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/2630/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TOKYO MX",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/TOKYOMX/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV ASAHI",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16906"
+					}
+				]
+        },
+		{
+                "caponcanalename": "FUJI TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16904"
+					}
+				]
+        },
+		{
+                "caponcanalename": "CGNTV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16905"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16907"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV TOKYO",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16908"
+					}
+				]
+        },
+		{
+                "caponcanalename": "WeatherNews",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Cinefil",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16916"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Live",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/3690/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "YTV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://193.42.99.133:23455/2600/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK G",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16903"
+					}
+				]
+        }
+  ]
+}
