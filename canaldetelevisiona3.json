@@ -1,0 +1,14 @@
+{
+    "espanatv": [
+		{
+                "Nombredelcanal": "canal-parlamento",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"html",
+				  	"Urldecanal":"https://www.congreso.es/web/guest/actualidad/canal-parlamento"
+					}
+				]
+                
+        }
+  ]
+}

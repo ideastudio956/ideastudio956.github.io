@@ -1,0 +1,24 @@
+{
+    "espanatv": [
+        {
+                "Nombredelcanal": "24h",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"html",
+				  	"Urldecanal":"https://www.24horas.cl/envivo/"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "canal-parlamento",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"html",
+				  	"Urldecanal":"https://www.congreso.es/web/guest/actualidad/canal-parlamento"
+					}
+				]
+                
+        }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "espanatv": [
+		{
+                "Nombredelcanal": "24h",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"html",
+				  	"Urldecanal":"https://www.24horas.cl/envivo/"
+					}
+				]
+                
+        }
+  ]
+}

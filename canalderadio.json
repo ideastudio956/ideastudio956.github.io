@@ -1,0 +1,13 @@
+{
+    "espanatv": [
+		{
+                "Nombredelcanal": "Catulanya-radio",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"html",
+				  	"Urldecanal":"https://www.ccma.cat/catradio/directe/catalunya-radio/"
+					}
+				]
+        }
+  ]
+}
