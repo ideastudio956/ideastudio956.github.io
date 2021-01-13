@@ -1,0 +1,265 @@
+{
+    "capontv": [
+	    {
+                "caponcanalename": "ABC",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gx06.stream/playlist.m3u8?wowzasessionid=1911887997"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "ANIMAX",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "CH 1",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://hlstw.ihome.tokyo/live/cs21.stream/playlist.m3u8?wowzasessionid=token"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "Kantele",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gx05.stream/playlist.m3u8?wowzasessionid=1109890220"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Kids",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.kr130.jpnettv.live/live/jkids/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Music TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.kr130.jpnettv.live/live/mtv/playlist.m3u8?"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "MBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gx04.stream/playlist.m3u8?wowzasessionid=2141093311"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Music Japan",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://hlstw.ihome.tokyo/live/cs17.stream/playlist.m3u8?wowzasessionid=token"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Next",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://hlstw.ihome.tokyo/live/cs33.stream/playlist.m3u8?wowzasessionid=token"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK BSP",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK 华语视界",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK E",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_002/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK ENGLISH",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16901"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Nihon Eiga TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.kr130.jpnettv.live/live/igasennmonn_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV NEWS 24",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Osaka TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gx07.stream/playlist.m3u8?wowzasessionid=1177126730"
+					}
+				]
+        },
+		{
+                "caponcanalename": "SUN",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gx08.stream/playlist.m3u8?wowzasessionid=607691682"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TOKYO MX",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_009/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV ASAHI",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "FUJI TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_008/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_004/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_006/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV TOKYO",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gd07.stream/playlist.m3u8?wowzasessionid=1561681306"
+					}
+				]
+        },
+		{
+                "caponcanalename": "WeatherNews",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Cinefil",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.kr130.jpnettv.live/live/cinefil_wowow_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Live",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/bs09.stream/playlist.m3u8?wowzasessionid=1326345316"
+					}
+				]
+        },
+		{
+                "caponcanalename": "YTV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://hlstw.ihome.tokyo/live/gx03.stream/playlist.m3u8?wowzasessionid=1184299235"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK G",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_001/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}
