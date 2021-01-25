@@ -1,0 +1,31 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "Tv União de Natal",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Destak",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Gostei Tv",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}

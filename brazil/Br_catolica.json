@@ -1,0 +1,85 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "TVCI",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://flash8.crossdigital.com.br/2306/2306/chunklist_w216236097.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Evangelizar",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5953e7f9ae845.streamlock.net/evangelizar1/tv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Vianney",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Novo Milênio",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://stmv3.samcast.com.br/jaguaraci8037/jaguaraci8037/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Web Tv Água Boa",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1330331352.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Pai Eterno",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w283318240.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Vida",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Século 21",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://dhxt2zok2aqcr.cloudfront.net/live/rs21_240p414k/index.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Canção Nova",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?ISAQUE"
+					}
+				]
+        }
+  ]
+}

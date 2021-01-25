@@ -1,0 +1,13 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "Tv Espírita do Parnaá",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://srv4.zcast.com.br/rodney2576/rodney2576/chunklist.m3u8"
+					}
+				]
+        }
+  ]
+}
