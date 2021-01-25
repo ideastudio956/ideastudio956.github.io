@@ -1,0 +1,32 @@
+{
+    "spaRadio": [
+	    {
+                "Nombredelcanal": "Wowow Cinefil",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdn.kr130.jpnettv.live/live/cinefil_wowow_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "Nombredelcanal": "ANIMAX",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdn.kr130.jpnettv.live/live/janimax_540/playlist.m3u8?"
+					}
+				]
+        },
+		,
+		{
+                "Nombredelcanal": "MTV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdn.kr130.jpnettv.live/live/mtv/playlist.m3u8?"
+					}
+				]
+        }
+  ]
+}
