@@ -1,0 +1,44 @@
+{
+    "spaTV": [
+        {
+                "Nombredelcanal": "Kantele",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://193.42.99.133:23455/2610/playlist.m3u8"
+					}
+				]
+                
+        },
+		 {
+                "Nombredelcanal": "MBS",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://193.42.99.133:23455/MBS/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Kantele 2",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://193.42.99.133:23455/2610/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "SUN",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://193.42.99.133:23455/2630/playlist.m3u8"
+					}
+				]
+                
+        }
+  ]
+}
