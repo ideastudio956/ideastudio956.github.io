@@ -1,0 +1,364 @@
+{
+    "capontv": [
+	    {
+                "caponcanalename": "ABC",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "ANIMAX (BSアニマックス)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/janimax_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Disney Channel (ディズニーチャンネル)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/disney_channel/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Gejiko (衛星劇場)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/gekijjyou/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "familyt Heater (ファミリー劇場)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/familytheater/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Fish (BS釣りビジョン)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/Fishing_broadcasting/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Fox",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/jfox/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Gaora",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/GaoRa/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "Kantele (関西テレビ)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Kids (キッズステーション)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/jkids/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "MTV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/mtv/playlist.m3u8"
+					}
+				]
+        },
+	    {
+                "caponcanalename": "MBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Movie Plus (ムービープラス)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/movieplus/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK BSP (NHKBSプレミアム)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK 华语视界",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK E (NHK東京　教育)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK ENGLISH (NHK World Japan)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://203.162.235.41:16901"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Nihon Eiga TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV NEWS 24 (日テレNEWS24)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Ochinchin TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/nhkbs1_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Omenko TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/wowcinema_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Osaka TV (テレビ大阪)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "starch3_540 (スターチャンネル３)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/starch3_540 /playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Samurai",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/jidaigeki/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Sky a (スカイA)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/Sky_A/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Sun",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TOKYO MX",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Triangule (Toei Channel)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/TOA/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV ASAHI (テレビ朝日)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_asahi_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "FUJI TV (フジテレビ)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_fuji_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV (日本テレビ)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_nippon_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_tbs_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV TOKYO (テレビ東京)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_tv_tokyo_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "WeatherNews",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Live",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/wowlive_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Cinefil (WOWOWシネフィル)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/cinefil_wowow_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "Wowow Prime",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/wowprime_540/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "YTV (読売テレビ)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NHK G (NHK総合)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"https://cdn.jpth10.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}
