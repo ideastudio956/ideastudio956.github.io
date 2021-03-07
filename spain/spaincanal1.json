@@ -1,0 +1,382 @@
+{
+    "spaTV": [
+	 {
+                "Nombredelcanal": "Nova",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"A3PLY",
+				  	"Urldecanal":"https://api.atresplayer.com/player/v1/live/5a6a180b7ed1a834493ebf6e"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/nova?mode=oficial"
+					},
+					{
+				  	"Formatodecanal":"mpd",
+				  	"Urldecanal":"https://a3m-nova-live-dash.secure.footprint.net/live/nas_live/nova/dash/nova.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=06b89b965159503223e9617ee4f6d9a022132ea16"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Neox",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"A3PLY",
+				  	"Urldecanal":"https://api.atresplayer.com/player/v1/live/5a6a17da7ed1a834493ebf6d"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/neox?mode=oficial"
+					},
+					{
+				  	"Formatodecanal":"mpd",
+				  	"Urldecanal":"https://a3m-neox-live-dash.secure.footprint.net/live/nas_live/neox/dash/neox.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0c83968d0468c93bf4e3e0738e60ece3f3c5ee9c0"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "laSexta",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"A3PLY",
+				  	"Urldecanal":"https://api.atresplayer.com/player/v1/live/5a6a172c7ed1a834493ebf6b"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/lasexta_1?mode=oficial"
+					},
+					{
+				  	"Formatodecanal":"mpd",
+				  	"Urldecanal":"https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Telecinco",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"MsetVLC",
+				  	"Urldecanal":"https://linear01-i.akamaihd.net/hls/live/837810/telecinco/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/telecinco?mode=oficial"
+					},
+					{
+				  	"Formatodecanal":"mpd",
+				  	"Urldecanal":"https://mdst-t5-live-dash.secure.footprint.net/live/nas_live/t5/dash/t5.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=04dd1203c4e2c03dbc7071e7671a4bbb1e04e376c"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://linear01-i.akamaihd.net/hls/live/837810/telecinco/03.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Cuatro",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"MsetVLC",
+				  	"Urldecanal":"https://linear01-i.akamaihd.net/hls/live/837810/Cuatro/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/cuatro?mode=oficial"
+					},
+					{
+				  	"Formatodecanal":"mpd",
+				  	"Urldecanal":"https://mdst-cuatro-live-dash.secure.footprint.net/live/nas_live/cuatro/dash/cuatro.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d0d929de59ddae5232eb4e29e65cd70c9f08821c"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://linear02-i.akamaihd.net/hls/live/837811/cuatro/03.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "La 2",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rtvelivestream.akamaized.net/la2_dvr.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "La 1",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rtvelivestream.akamaized.net/la1_dvr.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "RealMadrid TV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "La 7",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "33",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-cat.ccma.cat/cat/ngrp:c33_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "C. Foral de Navarra",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_480p/chunks.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Lancelot TV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "ETB Deportes",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://etbvgeo-lh.akamaihd.net/i/OCA2HD_1@756104/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "C. de Madrid",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "País Vasco",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Melilla",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "telesafor",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"http://video.telesafor.com/hls/video.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "DKISS",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/dkiss_1?mode=oficial"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://ws.nadalmedia.com/hello/dkiss_1?mode=edge"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Clan",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Canal 4 Tenerife",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Extremadura",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Galicia",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://europa-crtvg.flumotion.com/playlist.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "ETB 2",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "mtmad 24h",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Esport 3",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Empordà TV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://liveingesta118.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
+					},
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://liveingesta119.cdnmedia.tv/empordatvlive/smil:live.smil/master.m3u8"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "Levante TV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8"
+					}
+				]
+                
+        }
+  ]
+}
