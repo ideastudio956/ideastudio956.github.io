@@ -139,7 +139,7 @@
                 "caponcanalename": "ANIMAX (BSアニマックス)",
                 "numcanal": [
 					{
-				  	"caponcanalformat":"m3u8",
+				  	"caponcanalformat":"dash",
 				  	"caponcanalurl":"http://180.92.158.208:9981/stream/channelid/806982131"
 					}
 				]
