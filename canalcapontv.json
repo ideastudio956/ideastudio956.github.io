@@ -31,7 +31,7 @@
                 "caponcanalename": "Wowow Cinefil (WOWOWシネフィル)",
                 "numcanal": [
 					{
-				  	"caponcanalformat":"m3u8",
+				  	"caponcanalformat":"dash",
 				  	"caponcanalurl":"http://203.162.235.41:16916"
 					}
 				]
