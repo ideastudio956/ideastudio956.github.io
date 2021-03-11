@@ -1,0 +1,34 @@
+{
+    "spaTV": [
+        {
+                "Nombredelcanal": "ABC",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "YTV",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdn.kr130.jpnettv.live/live/kansi_yomiuri_720/playlist.m3u8?"
+					}
+				]
+                
+        },
+		{
+                "Nombredelcanal": "ABC 2",
+                "numerodecanal": [
+					{
+				  	"Formatodecanal":"m3u8",
+				  	"Urldecanal":"https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?"
+					}
+				]
+                
+        }
+  ]
+}
