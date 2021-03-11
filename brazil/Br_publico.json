@@ -1,0 +1,193 @@
+{
+    "BrasilTVlive": [
+	    {
+                "nomedocanale": "Canal 25 Jundiaí",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV Câmara SP",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Assembléia RN",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w1148231224.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Câmara",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stream3.camara.gov.br/tv1/manifest.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Assembleia Piauí",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w1523116373.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV Assembleia",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://ott.al.rs.gov.br/stream01/index.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Câmara Jacareí",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://179.109.16.5:1935/tvcamarajacarei/aovivo/chunklist_w2119253174.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Canal do Boi",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Canal Ricos",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "COM Brasil",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Fonte TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "IMPD TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Nova Era TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Brasil",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Brasil de Comunicação",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Globo",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Mão Amiga",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede RC",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Super",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Século 21",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Vida",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}

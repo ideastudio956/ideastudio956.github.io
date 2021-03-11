@@ -1,0 +1,22 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "TVídeoNews",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Metrópole News TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}

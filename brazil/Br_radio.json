@@ -1,0 +1,31 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "CBN RJ 92,5 FM",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "CBN SP 90,5 FM",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "98 Live (Belo Horizonte)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}

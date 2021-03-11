@@ -1,0 +1,40 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "CNN Brasil",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV Sim (Record News - ES)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Família",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "NTV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://hls.brasilstream.com.br/live/ntv/ntv/mono.m3u8"
+					}
+				]
+        }
+  ]
+}

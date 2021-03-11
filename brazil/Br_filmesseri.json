@@ -1,0 +1,247 @@
+{
+    "BrasilTVlive": [
+		{
+                "nomedocanale": "Tv Séries 4 - Chips",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Séries 2 - A Mulher Biônica",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Séries 1 - As Panteras",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvstm.com/tvserie/tvserie/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Séries 3 - Star Trek",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV VM",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://livefocamundo.com:8081/8606/index.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV Vintage",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Londrina TV (Filmes 24 Horas)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Web Tv RWCG (Filmes 24 Horas)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://video01.kshost.com.br/fabio8255/fabio8255/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Krónos Movie Web Tv (Recomendado)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede Tv Sul",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Classique Tv",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://stmv2.srvstm.com/classique/classique/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Mega Cine (Recomendado)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Nova Onda",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Web Tv Progresso",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Pombal",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.samcast.com.br/tvpombal/tvpombal/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Viva Web Tv",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "PPTV Channel",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV Séries",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Jornal do Nordeste",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Osório News",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://5d82644094cc0.streamlock.net/tvosorionews/tvosorionews/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV na Ilha",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv J.SID",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://livefocamundo.com:8081/8650/tracks-v1a1/mono.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "TV CARIOCA.NET (Recomendado)",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Tv Capital 777",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w163545655.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "SUMMER TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Rede H TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist.m3u8"
+					}
+				]
+        },
+		{
+                "nomedocanale": "Gospel Movie TV",
+                "numerodocanale": [
+					{
+				  	"formatodecanal":"m3u8",
+				  	"urldocanale":"https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
+					}
+				]
+        }
+  ]
+}
