@@ -1,0 +1,50 @@
+{
+    "capontv": [
+	   {
+                "caponcanalename": "TBS",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "NIPPON TV (日本テレビ)",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV TOKYO ((テレビ東京))",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "TV ASAHI",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8"
+					}
+				]
+        },
+		{
+                "caponcanalename": "FUJI TV",
+                "numcanal": [
+					{
+				  	"caponcanalformat":"m3u8",
+				  	"caponcanalurl":"http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8"
+					}
+				]
+        }
+		
+  ]
+}
